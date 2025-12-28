@@ -1,12 +1,8 @@
-# 🎄 Gabriel Nunes de Melo
+## 🎄 Gabriel Nunes de Melo
 **`Desenvolvedor FullStack`**
 
-Estudante de Engenharia de Software, focado em desenvolvimento web.
-Tenho experiência prática com projetos publicados e versionados no GitHub.
 
-<p align="left">
-    <a href="# 🎄 Gabriel Nunes de Melo
-**`Desenvolvedor FullStack`**
+<video src="assets/video.mp4" controls width="100%"></video>
 
 Estudante de Engenharia de Software, focado em desenvolvimento web.
 Tenho experiência prática com projetos publicados e versionados no GitHub.
