@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🎄 Gabriel Nunes de Melo
+**`Desenvolvedor FullStack`**
 
-<!--
-**kibe-zeroone/kibe-zeroone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, focado em desenvolvimento web.
+Tenho experiência prática com projetos publicados e versionados no GitHub.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label= seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tecnologias
+- HTML, CSS, JavaScript
+- React / Next.js (se usar)
+- Git e GitHub
+- Deploy com Vercel
