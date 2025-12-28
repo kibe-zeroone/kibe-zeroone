@@ -5,7 +5,7 @@ Estudante de Engenharia de Software, focado em desenvolvimento web.
 Tenho experiência prática com projetos publicados e versionados no GitHub.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/kibe-zeroone?tab=followers">
         <img 
             alt="seguidores" 
             title="Me siga no GitHub" 
