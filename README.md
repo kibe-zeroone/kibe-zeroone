@@ -118,7 +118,7 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
   - 🛠️ Stack: React, TypeScript, Node.js
   - 📌 Repositório: Privado
 
-- **Site de um trabalho da faculdade**
+- **Site imobiliário**
   - 🔗 Deploy: https://casa-facil-page.vercel.app/
   - 🛠️ Stack: React, Tailwind
   - 📌 Repositório: Público
