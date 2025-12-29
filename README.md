@@ -14,7 +14,7 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
     <img 
       alt="seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label= seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
     />
   </a>
 </p>
