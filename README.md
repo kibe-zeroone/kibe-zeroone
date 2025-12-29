@@ -34,11 +34,7 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
     </td>
   </tr>
 </table>
-
-
----
-
-### 🤖 Linguagens e Tecnologias
+&nbsp;
 
 <img 
     align="left" 
