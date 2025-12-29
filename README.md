@@ -12,7 +12,7 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
 #
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kibe-zeroone?tab=followers">
     <img 
       alt="seguidores" 
