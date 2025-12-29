@@ -1,13 +1,13 @@
-# 📃 Gabriel Nunes de Melo
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <td width="60%" valign="top" style="border: none; padding-right: 8px;">
+
+## 📃 Gabriel Nunes de Melo
 **`Desenvolvedor FullStack`**
 
-Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho experiência prática no desenvolvimento de aplicações usando TypeScript, Java, React e Node.js, com projetos reais publicados e versionados no GitHub. Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como profissional.
-
-<p align="center">
-  <img src="assets/video.gif" width="400" />
-</p>
-
-#
+Estudante de Engenharia de Software apaixonado por desenvolvimento web.  
+Tenho experiência prática no desenvolvimento de aplicações usando TypeScript, Java, React e Node.js, com projetos reais publicados e versionados no GitHub.  
+Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como profissional.
 
 <p align="left">
   <a href="https://github.com/kibe-zeroone?tab=followers">
@@ -17,6 +17,7 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
       src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
     />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-nunes-de-melo-1668a22bb/" target="_blank">
     <img
       alt="LinkedIn"
@@ -25,6 +26,13 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
     />
   </a>
 </p>
+    </td>
+    <td width="40%" align="right" style="border: none; padding-left: 8px;">
+<img src="assets/video.gif" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
