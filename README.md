@@ -4,7 +4,7 @@
       <div style="text-align: justify; max-width: 90%;">
 
 ## 📃 &nbsp;&nbsp;&nbsp;&nbsp; Gabriel Nunes de Melo
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`Desenvolvedor FullStack`**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`Desenvolvedor FullStack`**
 
 Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho experiência prática no desenvolvimento de aplicações usando TypeScript, Java, React e Node.js, com projetos reais publicados e versionados no GitHub.
 </div>
