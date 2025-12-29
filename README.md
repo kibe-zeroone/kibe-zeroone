@@ -118,21 +118,21 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kibe-zeroone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
-</p>
+<br clear="left"/>
+
 
