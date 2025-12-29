@@ -111,23 +111,16 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
 
 <br/>
 
-### 📊 Estatísticas
+### 🚀 Projetos
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+- **Sistema X**
+  - 🔗 Deploy: https://site-para-o-meu-livro.vercel.app/
+  - 🛠️ Stack: React, TypeScript, Node.js
+  - 📌 Repositório: Privado
 
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kibe-zeroone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-<br clear="left"/>
+- **Landing Page Y**
+  - 🔗 Deploy: https://outroprojeto.vercel.app
+  - 🛠️ Stack: React, Tailwind
+  - 📌 Repositório: Público
 
 
