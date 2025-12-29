@@ -108,7 +108,7 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+&nbsp;&nbsp;---> Linguagens usadas
 <br/>
 
 ### 🚀 Projetos
