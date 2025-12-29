@@ -135,9 +135,3 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
   />
 
 </p>
-
-🛠️ Tecnologias
-- HTML, CSS, JavaScript
-- React / Next.js (se usar)
-- Git e GitHub
-- Deploy com Vercel
