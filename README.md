@@ -1,11 +1,14 @@
 ## 🎄 Gabriel Nunes de Melo
 **`Desenvolvedor FullStack`**
 
-
-<video src="assets/video.mp4" controls width="100%"></video>
-
 Estudante de Engenharia de Software, focado em desenvolvimento web.
 Tenho experiência prática com projetos publicados e versionados no GitHub.
+
+<p align="center">
+  <img src="assets/video.gif" width="400" />
+</p>
+
+#
 
 <p align="left">
     <a href="https://github.com/kibe-zeroone?tab=followers">
