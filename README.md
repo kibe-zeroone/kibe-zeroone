@@ -1,4 +1,4 @@
-# 🎄 Hi there! My name is Gabriel Nunes de Melo
+# 📃 Gabriel Nunes de Melo
 **`Desenvolvedor FullStack`**
 
 Estudante de Engenharia de Software, focado em desenvolvimento web.
