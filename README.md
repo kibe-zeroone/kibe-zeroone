@@ -1,8 +1,7 @@
 # 📃 Gabriel Nunes de Melo
 **`Desenvolvedor FullStack`**
 
-Estudante de Engenharia de Software, focado em desenvolvimento web.
-Tenho experiência prática com projetos publicados e versionados no GitHub.
+Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho experiência prática no desenvolvimento de aplicações usando TypeScript, Java, React e Node.js, com projetos reais publicados e versionados no GitHub. Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como profissional.
 
 <p align="center">
   <img src="assets/video.gif" width="400" />
