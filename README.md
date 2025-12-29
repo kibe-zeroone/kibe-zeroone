@@ -113,13 +113,13 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
 
 ### 🚀 Projetos
 
-- **Sistema X**
+- **Site do meu livro**
   - 🔗 Deploy: https://site-para-o-meu-livro.vercel.app/
   - 🛠️ Stack: React, TypeScript, Node.js
   - 📌 Repositório: Privado
 
-- **Landing Page Y**
-  - 🔗 Deploy: https://outroprojeto.vercel.app
+- **Site de um trabalho da faculdade**
+  - 🔗 Deploy: https://casa-facil-page.vercel.app/
   - 🛠️ Stack: React, Tailwind
   - 📌 Repositório: Público
 
