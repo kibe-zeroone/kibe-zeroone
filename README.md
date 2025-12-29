@@ -110,7 +110,6 @@ Estou em constante aprendizado, sempre buscando evoluir tecnicamente e como prof
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
