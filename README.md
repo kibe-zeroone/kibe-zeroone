@@ -17,6 +17,13 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
       src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
     />
   </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+    <img
+      alt="LinkedIn"
+      title="Meu LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
 
 🛠️ Tecnologias
