@@ -124,4 +124,8 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento web. Tenho ex
   - 🛠️ Stack: React, Tailwind
   - 📌 Repositório: Público
 
+- **Site para as minhas metas**
+  - 🔗 Deploy: https://metas-ss6a.vercel.app/
+  - 🛠️ Stack: React, Tailwind
+  - 📌 Repositório: Privado
 
