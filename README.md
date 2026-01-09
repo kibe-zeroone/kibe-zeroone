@@ -5,8 +5,12 @@
 # Gabriel Nunes de Melo  
 ### Desenvolvedor Full Stack Web
 
+<div style="max-width: 700px; margin: 0 auto;">
+
 Estudante de **Engenharia de Software**, focado em desenvolvimento web moderno.  
 Atuo principalmente no **Front-end com React e TypeScript**, criando aplicações bem estruturadas, responsivas e com boa experiência de usuário.
+
+</div>
 
 📍 Brasil  
 🎯 Em busca de oportunidade como **Estágio ou Desenvolvedor Júnior**
@@ -68,7 +72,7 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 ### 📘 Site do meu livro
 🔗 **Deploy:** https://site-para-o-meu-livro.vercel.app/  
 🛠️ **Stack:** React, TypeScript, Node.js  
-📝 Plataforma web para divulgação e apresentação de obra autoral, com layout moderno e foco em experiência do usuário.  
+📝 Plataforma web para divulgação e apresentação de obra autoral, com foco em design e experiência do usuário.  
 📌 **Status:** Código privado (versão pública em desenvolvimento)
 
 ---
@@ -76,7 +80,7 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 ### 🏠 Site Imobiliário
 🔗 **Deploy:** https://casa-facil-page.vercel.app/  
 🛠️ **Stack:** React, Tailwind  
-📝 Landing page responsiva para divulgação de imóveis, com foco em apresentação visual e usabilidade.  
+📝 Landing page responsiva para divulgação de imóveis.  
 📂 **Repositório:** Público
 
 ---
@@ -84,7 +88,7 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 ### 🎯 Site de Metas Pessoais
 🔗 **Deploy:** https://metas-ss6a.vercel.app/  
 🛠️ **Stack:** React, Tailwind  
-📝 Aplicação para organização de metas pessoais, com interface simples e intuitiva.  
+📝 Aplicação para organização de metas pessoais.  
 📌 **Status:** Código privado
 
 ---
@@ -93,7 +97,7 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 
 ---
 
-📫 **Quer conversar ou saber mais?**  
-Entre em contato pelo LinkedIn ou explore meus repositórios aqui no GitHub.
+📫 **Vamos conversar?**  
+Me chama no LinkedIn ou explore meus repositórios aqui no GitHub.
 
 </div>
