@@ -2,7 +2,7 @@
 
 <img src="assets/video.gif" width="420"/>
 
-# Gabriel Nunes de Melo  
+# 💻 Gabriel Nunes de Melo  
 ### Desenvolvedor Full Stack Web
 
 <div style="max-width: 700px; margin: 0 auto;">
