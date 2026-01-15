@@ -1,3 +1,5 @@
+<img src="assets/video.gif" width="120"/>
+
 <div align="center">
 
 # 💻 Hey, Welcome!
@@ -11,8 +13,6 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 
 </div>
 <div align="center">
-
-<img src="assets/video.gif" width="320"/>
 
 📍 Brasil - Aparecida de Goiânia (GO)  
 🎯 Em busca de oportunidade como **Estágio ou Desenvolvedor Júnior**
