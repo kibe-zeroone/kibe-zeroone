@@ -2,7 +2,11 @@
 
 <img src="assets/video.gif" width="420"/>
 
+<<<<<<< HEAD
 # 💻 Gabriel Nunes de Melo
+=======
+# 💻 Gabriel Nunes de Melo  
+>>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
 ### Desenvolvedor Full Stack Web
 
 <div style="max-width: 700px; margin: 0 auto;">
@@ -32,8 +36,13 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 
 <div align="center">
 
+<<<<<<< HEAD
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=pie&theme=tokyonight&hide_border=true"
+=======
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=pie&theme=tokyonight&hide_border=true"
+>>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
 />
 
 </div>
@@ -44,8 +53,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone
 
 <div align="center">
 
+<<<<<<< HEAD
 <img
 src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&hide_border=true"
+=======
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&hide_border=true"
+>>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
 />
 
 </div>
