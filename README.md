@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="assets/video.gif" width="420"/>
-
-<<<<<<< HEAD
-# 💻 Gabriel Nunes de Melo
-=======
-# 💻 Gabriel Nunes de Melo  
->>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
-### Desenvolvedor Full Stack Web
-
-<div style="max-width: 700px; margin: 0 auto;">
-
-Estudante de **Engenharia de Software**, focado em desenvolvimento web moderno.  
-Atuo principalmente no **Front-end com React e TypeScript**, criando aplicações bem estruturadas, responsivas e com boa experiência de usuário.
+# 💻 Hey, Welcome!
+### Gabriel Nunes de Melo - Desenvolvedor Full Stack
 
 </div>
 
-📍 Brasil  
+<div style="max-width: 700px; margin: 0 auto;">
+
+Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moderno e aplicativos funcionais. Atuo principalmente no **Front-end com React e TypeScript**, criando aplicações bem estruturadas, responsivas e com boa experiência de usuário.
+
+</div>
+<div align="center">
+
+<img src="assets/video.gif" width="320"/>
+
+📍 Brasil - Aparecida de Goiânia (GO)  
 🎯 Em busca de oportunidade como **Estágio ou Desenvolvedor Júnior**
 
-<br/>
 
 <a href="https://www.linkedin.com/in/gabriel-nunes-de-melo-1668a22bb/" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,6 +24,7 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 <a href="https://github.com/kibe-zeroone">
   <img src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?style=for-the-badge&logo=github&logoColor=white&label=Seguidores"/>
 </a>
+
 
 </div>
 
@@ -36,13 +34,8 @@ Atuo principalmente no **Front-end com React e TypeScript**, criando aplicaçõe
 
 <div align="center">
 
-<<<<<<< HEAD
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=pie&theme=tokyonight&hide_border=true"
-=======
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=pie&theme=tokyonight&hide_border=true"
->>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
 />
 
 </div>
@@ -53,13 +46,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone
 
 <div align="center">
 
-<<<<<<< HEAD
-<img
-src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&hide_border=true"
-=======
 <img 
   src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&hide_border=true"
->>>>>>> 9b9875b92e2fbb2c83aa8cdd05ac55f9063b71d5
 />
 
 </div>
