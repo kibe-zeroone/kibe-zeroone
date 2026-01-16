@@ -45,18 +45,6 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
 ## 🛠️ Alguns Stacks
 
 <div align="center">
