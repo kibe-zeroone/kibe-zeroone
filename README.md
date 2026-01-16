@@ -25,8 +25,8 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 <a href="https://github.com/kibe-zeroone">
   <img src="https://custom-icon-badges.demolab.com/github/followers/kibe-zeroone?style=for-the-badge&logo=github&logoColor=white&label=Seguidores"/>
 </a>
-<a href="https://meu-portfolio-lac-nine.vercel.app/">
-  <img src="./assets/button.png" height="28"/>
+<a href="https://meu-portfolio-lac-nine.vercel.app/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Portfólio-crimson?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
