@@ -1,7 +1,3 @@
-<div align="right">
-<img src="assets/video.gif" width="90"/>
-</div>
-
 <div align="center">
 
 # 💻 Hey, Welcome!
@@ -13,6 +9,7 @@
 
 Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moderno e aplicativos funcionais. Atuo principalmente no **Front-end com React e TypeScript**, criando aplicações bem estruturadas, responsivas e com boa experiência de usuário.
 
+<img src="assets/video.gif" width="90" align="right"/>
 </div>
 <div align="center">
 
