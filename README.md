@@ -70,34 +70,6 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-### 📘 Site do meu livro
-🔗 **Deploy:** https://site-para-o-meu-livro.vercel.app/  
-🛠️ **Stack:** React, TypeScript, Node.js  
-📝 Plataforma web para divulgação e apresentação de obra autoral, com foco em design e experiência do usuário.  
-📌 **Status:** Código privado (versão pública em desenvolvimento)
-
----
-
-### 🏠 Site Imobiliário
-🔗 **Deploy:** https://casa-facil-page.vercel.app/  
-🛠️ **Stack:** React, Tailwind  
-📝 Landing page responsiva para divulgação de imóveis.  
-📂 **Repositório:** Público
-
----
-
-### 🎯 Site de Metas Pessoais
-🔗 **Deploy:** https://metas-ss6a.vercel.app/  
-🛠️ **Stack:** React, Tailwind  
-📝 Aplicação para organização de metas pessoais.  
-📌 **Status:** Código privado
-
----
-
 <div align="center">
 
 ---
