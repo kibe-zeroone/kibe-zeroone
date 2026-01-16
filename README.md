@@ -1,4 +1,6 @@
-<img src="assets/video.gif" width="120"/>
+<div align="right">
+<img src="assets/video.gif" width="90"/>
+</div>
 
 <div align="center">
 
