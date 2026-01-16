@@ -57,7 +57,7 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Alguns Stacks
 
 <div align="center">
 
