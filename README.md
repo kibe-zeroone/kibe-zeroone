@@ -35,17 +35,16 @@ Sou estudante de **Engenharia de Software**, focado em desenvolvimento web moder
 
 ## 📊 Tecnologias mais utilizadas
 
-<img height="300"
+<img height="350"
   align="right"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=pie&theme=tokyonight&hide_border=true"
 />
-
-<img width="280"
+<img width="350"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibe-zeroone&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
-
-<img width="280"
+<br/>
+<img width="350"
   src="https://github-readme-stats.vercel.app/api?username=kibe-zeroone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
